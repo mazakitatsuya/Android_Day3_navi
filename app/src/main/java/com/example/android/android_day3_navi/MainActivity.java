@@ -52,7 +52,6 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
-
     //Navigationdrawer設定
     @Override
     protected void onPostCreate(Bundle savedInstanceState) {
